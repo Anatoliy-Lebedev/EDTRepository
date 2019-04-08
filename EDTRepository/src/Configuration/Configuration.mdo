@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="011b2456-0884-4351-a85d-4433ede082cb">
+  <name>EDTRepository</name>
+  <synonym>
+    <key>ru</key>
+    <value>EDTRepository</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="a00ea7fe-736b-402a-8cb4-6eaeb6453aac"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cab68b32-705b-411a-b693-dc3619281887"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="a0c6340e-6acf-47ef-a7f3-28c9322cfd50"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="2af865e8-b5c7-47b6-b6fa-49b5f818571d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="488ce854-4b9c-41b3-a496-4ef33164d1d1"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="0b2d9a50-0aad-4576-834a-2ee1f42a749b"/>
+  <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="04240491-26fa-4f4e-a35f-f6142c8252e6">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
